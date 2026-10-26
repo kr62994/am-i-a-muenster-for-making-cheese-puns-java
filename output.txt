@@ -1,0 +1,4 @@
+Cheeses using pasteurized milk: 800
+Cheeses using raw milk: 115
+Organic cheeses with moisture greater than 41.0%: 53
+Most common animal milk: Cow
